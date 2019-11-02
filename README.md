@@ -18,6 +18,7 @@ Follow the [project board](https://github.com/AndroidDevsOrg/NewsFlash/projects)
 - Bookmarked news articles
 - Profile
 - Seach news articles
+- Surrounding News
 - more to be added.
 
 # Libraries to be used
